@@ -1,7 +1,7 @@
-<H3> Name </H3>:A.ARUVI.
-<H3>Register No.</H3>:212222230014.
-<H3> Experiment 1</H3>
-<H3>DATE:</H3>
+### Name :A.ARUVI.
+### Register No:212222230014.
+### Experiment 1:
+### DATE:04-09-2024.
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ### AIM:
